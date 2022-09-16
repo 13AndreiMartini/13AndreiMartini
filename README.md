@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @13AndreiMartini
+- 👋 Hi, I’m Andrei Martini (@13AndreiMartini)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning the basic of web development and JS
 - 📫 You can contact me trough this email: andreimartini@live.com
